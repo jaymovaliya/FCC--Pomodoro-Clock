@@ -1,0 +1,59 @@
+body{
+  background: linear-gradient(to left, #003300 0%, #663300 100%);
+}
+#top-banner{
+  text-align:center;
+ font-family: 'Allerta Stencil';
+  text-shadow: 6px 3px 3px #1a0000;
+  font-weight: normal;
+  font-size:55px;
+  margin-top:50px;
+  color:#0099ff;
+}
+#tags{
+  text-align:center;
+  margin-top:30px;
+  font-family: 'Allerta Stencil';
+  font-size:35px;
+  color:#ff6633;
+}
+#timers{
+  text-align:center;
+}
+#timeb{
+  font-size:50px;
+  font-family: 'Allerta Stencil';
+  color:#adad85;
+}
+#times{
+  font-size:50px;
+  font-family: 'Allerta Stencil';
+  color:#adad85;
+}
+.pmb{
+font-weight:bold;
+}
+.pms{
+  font-weight:bold;
+}
+#clock{
+  text-align:center;
+  font-size:120px;
+  font-family: 'Allerta Stencil';
+  color: #ffdb4d;
+}
+#lbl{
+  text-align:center;
+  font-size:25px;
+  font-family: 'Allerta Stencil';
+  color:#adad85;
+}
+#controls{
+  margin-top:10px;
+  text-align:center;
+}
+.myb{
+  margin-left:30px;
+  font-size:25px;
+  font-family: 'Allerta Stencil';
+}
